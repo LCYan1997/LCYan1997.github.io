@@ -97,6 +97,7 @@ a:link {
 
 .intro-portrait-img {
     height: 200px;
+	width: 200px;
     border: 10px solid #FFFCF4;
     position: absolute;
     top: 0;
@@ -225,6 +226,7 @@ a:link {
 
     .gallery a {
         margin-left: 0px;
+		margin-right: 10px;
         -webkit-transition: color .3s ease;
         transition: color .3s ease;
         text-transform: uppercase;
