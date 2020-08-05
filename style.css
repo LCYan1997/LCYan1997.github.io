@@ -203,6 +203,14 @@ a:link {
         margin-bottom:30px;
         margin-left:0px;
     }
+	
+	.gallery ha {
+        font-size: 18px;
+        color: #4b4a4a;
+        margin-top: 0px;
+        margin-bottom:30px;
+        margin-left:0px;
+    }
 
     .gallery h4 {
         font-size: 22px;
